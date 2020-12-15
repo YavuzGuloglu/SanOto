@@ -10,7 +10,7 @@ Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı
 ![](https://i.hizliresim.com/PZOkKu.jpg)
 
 
-- Bu sayfada ise siteye kayıt yapmış ustaların veya ilanların listesi görünmektedir. Böylece kullanıcılar ustalar ile iletişime geçebilirler 
+- Siteye kayıtlı ustaların veya ilanların listesi görünmektedir. Böylece kullanıcılar ustalar ile iletişime geçebilirler 
 
 ![](https://i.hizliresim.com/Gh2RjJ.jpg)
 
