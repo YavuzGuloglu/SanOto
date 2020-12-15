@@ -5,4 +5,4 @@ Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
-![](https://hizliresim.com/PZOkKu)
+![](https://i.hizliresim.com/PZOkKu.jpg)
