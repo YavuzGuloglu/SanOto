@@ -4,3 +4,5 @@
 Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı sorunlar il ve ilçelerin sanayi bölgelerinde ya da araçların kendi servislerinde çözüme kavuşturulmaktadır. Fakat müşteri memnuniyeti açısından servislerin karşılamadığı araçların olması veya servisteki işlem ve işçilik ücretinin yüksek olması müşterileri sanayi bölgelerine yönlendirmektedir. Bu konu üzerinde sanayi bölgelerindeki istihdam sayısının fazla olması müşterilere alternatifler sunmaktadır. Yapacağımız bu proje ile oto sanayi çalışanlarını ve müşterileri internet üzerinden bir platform ile bir araya getirmek amaçlanmaktadır.
 
 ![](https://i.hizliresim.com/PZOkKu.jpg)
+
+![](https://i.hizliresim.com/Gh2RjJ.jpg)
