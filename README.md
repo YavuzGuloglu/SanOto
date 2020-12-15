@@ -22,6 +22,6 @@ Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı
 
 - Siteye kayıtlı ustaların veya ilanların detaylarının göründüğü sayfadır. Böylece kullanıcılar ustalar ile iletişime geçebilirler veya ilanları görebilir.
 
-![](https://i.hizliresim.com/HA1xc6.jpg)
+![](https://i.hizliresim.com/Apcf0O.jpg)
 
 
