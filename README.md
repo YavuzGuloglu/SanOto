@@ -1,4 +1,3 @@
-# Web Based Vehicle Repair and Repair Platform
+# Web Based Vehicle Repair and Repair Platform #### LICENSE THESIS
 
-#### LICENSE THESIS
 ###### H6 header
