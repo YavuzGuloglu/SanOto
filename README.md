@@ -5,22 +5,22 @@ Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı
 
 
 
-- Sade bir tasarıma sahip olan Anasayfa başlangıçta karşınıza gelmektedir. Bu sayfada Anasayfa, Ustalar , İlanlar , İletişim, Giriş Yap adlı sayfalar bulunmaktadır.
+> Sade bir tasarıma sahip olan Anasayfa başlangıçta karşınıza gelmektedir. Bu sayfada Anasayfa, Ustalar , İlanlar , İletişim, Giriş Yap adlı sayfalar bulunmaktadır.
 
 ![](https://i.hizliresim.com/PZOkKu.jpg)
 
 
-- Siteye kayıtlı ustaların veya ilanların listesi görünmektedir. Böylece kullanıcılar ustalar ile iletişime geçebilirler 
+> Siteye kayıtlı ustaların veya ilanların listesi görünmektedir. Böylece kullanıcılar ustalar ile iletişime geçebilirler 
 
 ![](https://i.hizliresim.com/rcfLgo.jpg)
 
 
-- Kullanıcılar girişi yapıldıktan sonra kişi ilan verme sayfasındaki gereken verileri doldurarak sorunlarına ait ilan oluşturabilirler. Bu şekilde müşterilerin açtığı ilanlar, ilanlar sayfasına düşmekte ve ustalar bu ilanları görebilmektedir. 
+> Kullanıcılar girişi yapıldıktan sonra kişi ilan verme sayfasındaki gereken verileri doldurarak sorunlarına ait ilan oluşturabilirler. Bu şekilde müşterilerin açtığı ilanlar, ilanlar sayfasına düşmekte ve ustalar bu ilanları görebilmektedir. 
 
 ![](https://i.hizliresim.com/fspbQC.jpg)
 
 
-- Siteye kayıtlı ustaların veya ilanların detaylarının göründüğü sayfadır. Böylece kullanıcılar ustalar ile iletişime geçebilirler veya ilanları görebilir.
+> Siteye kayıtlı ustaların veya ilanların detaylarının göründüğü sayfadır. Böylece kullanıcılar ustalar ile iletişime geçebilirler veya ilanları görebilir.
 
 ![](https://i.hizliresim.com/Apcf0O.jpg)
 
