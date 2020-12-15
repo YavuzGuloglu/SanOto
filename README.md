@@ -17,7 +17,7 @@ Günümüzde araç tamiri, parça değişimi veya araba arızaları ile alakalı
 
 - Kullanıcılar girişi yapıldıktan sonra kişi ilan verme sayfasındaki gereken verileri doldurarak sorunlarına ait ilan oluşturabilirler. Bu şekilde müşterilerin açtığı ilanlar, ilanlar sayfasına düşmekte ve ustalar bu ilanları görebilmektedir. 
 
-![](https://i.hizliresim.com/aYOgGT.jpg)
+![](https://i.hizliresim.com/fspbQC.jpg)
 
 
 - Siteye kayıtlı ustaların veya ilanların detaylarının göründüğü sayfadır. Böylece kullanıcılar ustalar ile iletişime geçebilirler veya ilanları görebilir.
