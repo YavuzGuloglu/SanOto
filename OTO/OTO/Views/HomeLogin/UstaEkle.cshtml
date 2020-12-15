@@ -1,0 +1,156 @@
+﻿@model OTO.Models.Entity.Firma
+
+@{
+    ViewBag.Title = "UstaEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- PageBanner -->
+<div class="container-fluid no-padding pagebanner alert alert-info" style="background:#05C46B">
+    <div class="container">
+        <br />
+        <h2 style="color:whitesmoke">Yeni Usta Ekle</h2>
+        <hr />
+    </div>
+</div>
+<!-- PageBanner /- -->
+
+<div class="col-md-10  offset-md-1 ">
+    <br />
+    <div class="col-md-6 offset-md-3">
+        <div class="container">
+            @using (Html.BeginForm("UstaEkle", "HomeLogin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+
+                @Html.AntiForgeryToken()
+                <form method="post" class="container form-group col-md-8">
+
+                    <div>
+                        <label><u><h5>Firma Ad</h5></u></label>
+                        <input type="text" class="form-control text-sm-center" name="f_ad" />
+
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>Yetkili Ad Soyad</h5></u></label><br />
+                        <input type="text" class="form-control" name="f_yetkiliAdSoyad" />
+
+                    </div>
+                    <br />
+
+                    <div class="row ">
+                        <div class="col-md-4 col-sm-9">
+
+                            <label><u><h5>Şehir</h5></u></label>
+                            <input type="text" class="form-control" name="f_sehir" />
+
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+
+                            <label><u><h5>İlçe</h5></u></label>
+                            <input type="text" class="form-control" name="f_ilce" />
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row ">
+                        <div class="col-md-4 col-sm-9">
+
+                            <label><u><h5>Usta Tel</h5></u></label><br />
+                            <input type="tel" class="form-control" name="f_yetkiliTel" />
+
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+
+                            <label><u><h5>Şirket Tel</h5></u></label><br />
+                            <input type="text" class="form-control" name="f_sirketTel" />
+
+                        </div>
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>Adres</h5></u></label><br />
+                        <input type="text" class="form-control" name="f_adresDetay" />
+
+                    </div>
+
+                    <br />
+
+                    <div>
+                        <label><u><h5>Çalışma Saat Aralığı</h5></u></label><br />
+                        <input type="text" class="form-control" name="f_calismaSaat" />
+                    </div>
+                    <br />
+
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <label><u><h5>Usta Kategori</h5></u></label>    <br />
+                            @try
+                            {
+                                @Html.DropDownListFor(m => m.Kategori.kategori_ID, (List<SelectListItem>)ViewBag.ktgr, "Kategori Seçiniz..", new { @class = "form-control" })
+                            }
+                            catch (Exception)
+                            {
+
+                                Response.Write("Boş Bırakılamaz");
+                            }
+
+                        </div>
+                        <div class="col-md-6 col-sm-6 ">
+                            <label><u><h5>Çalışma Durumu</h5></u></label><br />
+                            &nbsp;   @try
+                            {
+                                @Html.DropDownListFor(m => m.Gunler.gun_id, (List<SelectListItem>)ViewBag.gun, "Kategori Seçiniz..", new { @class = "form-control" })
+                            }
+                            catch (Exception)
+                            {
+
+                                Response.Write("Boş Bırakılamaz");
+                            }
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <label><h5><u>Usta Fotograf</u></h5></label><br />
+
+                            <input type="file" name="yuklenecekResim2" accept="image/*" enctype="multipart/form-data" />
+
+                        </div>
+                        <div class="col-md-6 col-sm-6 ">
+                            <label><h5><u>İşyeri Fotograf</u></h5></label><br />
+                            <input type="file" name="yuklenecekResim" accept="image/*" enctype="multipart/form-data" />
+                        </div>
+                    </div>
+                    <br />
+
+                    <div>
+                        <label><u><h5>Eposta</h5></u></label><br />
+                        <input type="email" class="form-control" name="f_epota" />
+
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>Min Fiyat</h5></u></label><br />
+                        <input type="text" class="form-control" name="f_fiyat" />
+
+                    </div>
+                    <br />
+
+                    <div class="form-group">
+                        <label><u><h5>Şirket Detay</h5></u></label><br />
+                        @Html.TextAreaFor(Model => Model.f_detay, new { @class = "form-control", rows = "9 " })
+
+                    </div>
+                    <br />
+                    <div class="container col-sm-4">
+
+                        <input type="submit" class="form-control btn bg-success" style="font-size:large" value="U s t a y ı  &nbsp;  k a y d e t" name="UstaButonEkle" />
+                    </div>
+                </form>
+            }
+        </div>
+
+    </div>
+</div>
+<br />

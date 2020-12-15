@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="186c28dd67b9461abc9f6c3863722e90" Name="Diagram1">
+        <EntityTypeShape EntityType="SanOtoModel.Firma" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="SanOtoModel.Gunler" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SanOtoModel.Ilan" Width="1.5" PointX="8.625" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SanOtoModel.Kategori" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SanOtoModel.Kullanici" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SanOtoModel.Mesaj" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="SanOtoModel.FK_Firma_Kullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="SanOtoModel.FK_Kullanici_Firma" ManuallyRouted="false" />
+        <AssociationConnector Association="SanOtoModel.FK_Ilan_Kategori" ManuallyRouted="false" />
+        <AssociationConnector Association="SanOtoModel.FK_Ilan_Kullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="SanOtoModel.FK_Kullanici_Ilanlarr" />
+        <EntityTypeShape EntityType="SanOtoModel.Rating" Width="1.5" PointX="5.375" PointY="4.75" />
+        <AssociationConnector Association="SanOtoModel.FK_Rating_Firma" />
+        <AssociationConnector Association="SanOtoModel.FK_Firma_Gunler" />
+        <AssociationConnector Association="SanOtoModel.FK_Firma_Kategori" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

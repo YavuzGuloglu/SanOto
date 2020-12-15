@@ -1,0 +1,85 @@
+﻿@model OTO.Models.Entity.Kullanici
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!-- Breadcrumb -->
+<div class="breadcrumbs overlay" style="background-image:url('/eduland-master/images/fun-fact-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+                <h2>Kullanıcı Kayıt</h2>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <ul class="bread-list">
+                    <li><a href="@Url.Action("Index","Home")">AnaSayfa<i class="fa fa-angle-right"></i></a></li>
+                    <li class="active"><a href="@Url.Action("Login","Account")">Giriş Yap<i class="fa fa-angle-right"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ End Breadcrumb -->
+
+
+<div class="container ">
+    <div class="card card-login mx-auto mt-5 col-sm-5">
+        <div class="card-header">  <h3>Üye ol</h3></div>
+        <div class="card-body">
+
+            <div class="container">
+                @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { enctype = "Post" }))
+                {
+
+
+                    <form metot="post" class="form-signin">
+
+                        <div class="login-wrap">
+                            <p>Kişisel bilgilerinizi aşağıya girin.</p> <br />
+                            <input type="text" class="form-control" placeholder="Ad" name="k_ad" autofocus>
+                            <br />
+                            <input type="text" class="form-control" placeholder="Soyad" name="k_soyad" autofocus>
+                            <br />
+                            <input type="email" class="form-control" placeholder="Email" name="k_eposta" autofocus>
+                            <br />
+
+
+                            <input type="password" class="form-control" placeholder="Parola" name="k_sifre">  <br />
+
+
+
+                            @Html.RadioButtonFor(item => item.k_tipi, "True") Usta Olarak
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            @Html.RadioButtonFor(item => item.k_tipi, "False") Kullanıcı Olarak
+
+                            <br /><br />
+
+                            <label value="agree this condition">
+                                Hizmet Şartları ve Gizlilik Politikasını kabul ediyorum.
+                            </label><br />
+                            <input type="submit" class="btn btn-primary btn-block" name="KullaniciOlustur">
+
+                        </div>
+
+                    </form>
+                }
+
+                <div class="registration">
+                    <br />
+                    Hesabınız Varsa.
+                    <a class="" href="@Url.Action("Login", "Account")">
+                        Giriş Yap
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+&nbsp;

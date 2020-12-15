@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewBag.Title = "Iletisim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb -->
+<div class="breadcrumbs overlay" style="background-image:url('/eduland-master/images/slider/slider-bg16.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+                <h2><span>Bize Ulaşın</span></h2>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <ul class="bread-list">
+                    <li><a href="@Url.Action("Index","Home")">AnaSayfa<i class="fa fa-angle-right"></i></a></li>
+                    <li class="active"><a href="@Url.Action("Iletisim","Home")">İletişim</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ End Breadcrumb -->
+<!-- Contact Us -->
+<section id="contact" class="contact section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3 col-12">
+                <div class="section-title bg">
+                    <h2>Bizimle İletişime <span>Geçin</span></h2>
+                    <p>Lütfen bize sorularınızı, yorumlarınızı ve önerilerinizi göndermekten çekinmeyin. Her e-postayı okuyoruz ve sizin fikirleriniz önemsiyoruz. </p>
+                    <div class="icon"><i class="fa fa-paper-plane"></i></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-12">
+                <div class="form-head">
+                    <!-- Contact Form -->
+                    <form class="form" action="mail/mail.php">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="form-group">
+                                    <i class="fa fa-user"></i>
+                                    <input name="first-name" type="text" placeholder="Adınız">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="form-group">
+                                    <i class="fa fa-envelope"></i>
+                                    <input name="last-name" type="text" placeholder="Soyadınız">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="form-group">
+                                    <i class="fa fa-envelope"></i>
+                                    <input name="email" type="email" placeholder="Email Adresiniz">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group message">
+                                    <i class="fa fa-pencil"></i>
+                                    <textarea name="message" placeholder="Mesajınızı Yazınız.."></textarea>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <div class="button">
+                                        <button type="submit" class="btn primary">Mesajınızı Gönderin</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <!--/ End Contact Form -->
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <div class="contact-right">
+                    <!-- Contact-Info -->
+                    <div class="contact-info">
+                        <div class="icon"><i class="fa fa-map"></i></div>
+                        <h3>Bulunduğumuz Konum</h3>
+                        <p>Edirne Keşan Atakent - 2 </p>
+                    </div>
+                    <!-- Contact-Info -->
+                    <div class="contact-info">
+                        <div class="icon"><i class="fa fa-envelope"></i></div>
+                        <h3>İletişim Bilgileri</h3>
+                        <p><a href="yavuzguloglu@outlook.com">destek@sitehattı.com</a></p>
+                        <p>0(507) 153 93 37</p>
+                    </div>
+                    <!-- Contact-Info -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/ End Contact Us -->
+<!--/ End Clients CSS -->

@@ -1,0 +1,96 @@
+﻿@using OTO.Models.Entity
+@model Kullanici
+
+@{
+    ViewBag.Title = "Proifl";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid no-padding pagebanner alert alert-info" style="background: #05C46B">
+    <div class="container">
+
+        <br />
+        <h2 style="color:whitesmoke">
+            <i class="fa fa-caret-right"></i> &nbsp;  Merhaba  |&nbsp;
+            <small>
+                @Html.DisplayFor(model => model.k_ad)
+
+            </small>
+        </h2>
+        <hr />
+
+        <div class="row justify-content-end">
+            <a href="@Url.Action("Ilanlar", "Home")" style="font-size:medium;" class="btn white  "><i class="fa fa-arrow-left"></i>&nbsp;  İlanlar Sayfasına Dön </a>
+        </div>
+
+    </div>
+
+</div><!-- PageBanner /- -->
+
+<div class="col-md-10  offset-md-1 ">
+    <br />
+    <div class="col-md-6 offset-md-3">
+        <div class="container">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>Kullanici</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.k_id)
+
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="col-md-10">
+                                <label><h6><u> Ad: </u></h6></label>
+                                @Html.EditorFor(model => model.k_ad, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.k_ad, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="col-md-10">
+                                <label><h6><u> Soyad: </u></h6></label>
+                                @Html.EditorFor(model => model.k_soyad, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.k_soyad, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.k_eposta, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.k_eposta, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.k_eposta, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.k_sifre, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.k_sifre, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.k_sifre, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div>
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        </div>
+    </div>
+</div>

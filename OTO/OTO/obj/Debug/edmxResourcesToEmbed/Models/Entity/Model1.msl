@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SanOtoModelStoreContainer" CdmEntityContainer="SanOtoEntities">
+    <EntitySetMapping Name="Firma">
+      <EntityTypeMapping TypeName="SanOtoModel.Firma">
+        <MappingFragment StoreEntitySet="Firma">
+          <ScalarProperty Name="f_ustaFoto" ColumnName="f_ustaFoto" />
+          <ScalarProperty Name="f_detay" ColumnName="f_detay" />
+          <ScalarProperty Name="f_id" ColumnName="f_id" />
+          <ScalarProperty Name="f_ad" ColumnName="f_ad" />
+          <ScalarProperty Name="f_yetkiliAdSoyad" ColumnName="f_yetkiliAdSoyad" />
+          <ScalarProperty Name="f_sehir" ColumnName="f_sehir" />
+          <ScalarProperty Name="f_ilce" ColumnName="f_ilce" />
+          <ScalarProperty Name="f_mahalle" ColumnName="f_mahalle" />
+          <ScalarProperty Name="f_kategori" ColumnName="f_kategori" />
+          <ScalarProperty Name="f_adresDetay" ColumnName="f_adresDetay" />
+          <ScalarProperty Name="f_yetkiliTel" ColumnName="f_yetkiliTel" />
+          <ScalarProperty Name="f_sirketTel" ColumnName="f_sirketTel" />
+          <ScalarProperty Name="f_calismaSaat" ColumnName="f_calismaSaat" />
+          <ScalarProperty Name="f_calismagun" ColumnName="f_calismagun" />
+          <ScalarProperty Name="f_foto" ColumnName="f_foto" />
+          <ScalarProperty Name="f_epota" ColumnName="f_epota" />
+          <ScalarProperty Name="f_fiyat" ColumnName="f_fiyat" />
+          <ScalarProperty Name="f_gelenMesaj" ColumnName="f_gelenMesaj" />
+          <ScalarProperty Name="f_kullanici" ColumnName="f_kullanici" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gunler">
+      <EntityTypeMapping TypeName="SanOtoModel.Gunler">
+        <MappingFragment StoreEntitySet="Gunler">
+          <ScalarProperty Name="gun_id" ColumnName="gun_id" />
+          <ScalarProperty Name="gunler1" ColumnName="gunler" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ilan">
+      <EntityTypeMapping TypeName="SanOtoModel.Ilan">
+        <MappingFragment StoreEntitySet="Ilan">
+          <ScalarProperty Name="ilan_id" ColumnName="ilan_id" />
+          <ScalarProperty Name="ilan_baslik" ColumnName="ilan_baslik" />
+          <ScalarProperty Name="ilan_kategori" ColumnName="ilan_kategori" />
+          <ScalarProperty Name="ilan_sehir" ColumnName="ilan_sehir" />
+          <ScalarProperty Name="ilan_ilce" ColumnName="ilan_ilce" />
+          <ScalarProperty Name="ilan_mahalle" ColumnName="ilan_mahalle" />
+          <ScalarProperty Name="ilan_detay" ColumnName="ilan_detay" />
+          <ScalarProperty Name="ilan_tarih" ColumnName="ilan_tarih" />
+          <ScalarProperty Name="ilan_fiyat" ColumnName="ilan_fiyat" />
+          <ScalarProperty Name="ilan_verenAd" ColumnName="ilan_verenAd" />
+          <ScalarProperty Name="ilan_verenSoyad" ColumnName="ilan_verenSoyad" />
+          <ScalarProperty Name="ilan_verenTel" ColumnName="ilan_verenTel" />
+          <ScalarProperty Name="ilan_verenEposta" ColumnName="ilan_verenEposta" />
+          <ScalarProperty Name="ilan_adres" ColumnName="ilan_adres" />
+          <ScalarProperty Name="ilan_foto" ColumnName="ilan_foto" />
+          <ScalarProperty Name="ilan_gelenMesaj" ColumnName="ilan_gelenMesaj" />
+          <ScalarProperty Name="ilan_kullanici" ColumnName="ilan_kullanici" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kategori">
+      <EntityTypeMapping TypeName="SanOtoModel.Kategori">
+        <MappingFragment StoreEntitySet="Kategori">
+          <ScalarProperty Name="kategori_ID" ColumnName="kategori_ID" />
+          <ScalarProperty Name="kategori_ad" ColumnName="kategori_ad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanici">
+      <EntityTypeMapping TypeName="SanOtoModel.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="k_id" ColumnName="k_id" />
+          <ScalarProperty Name="k_ad" ColumnName="k_ad" />
+          <ScalarProperty Name="k_soyad" ColumnName="k_soyad" />
+          <ScalarProperty Name="k_eposta" ColumnName="k_eposta" />
+          <ScalarProperty Name="k_sifre" ColumnName="k_sifre" />
+          <ScalarProperty Name="k_gonderilenMesaj" ColumnName="k_gonderilenMesaj" />
+          <ScalarProperty Name="k_alinanMesaj" ColumnName="k_alinanMesaj" />
+          <ScalarProperty Name="k_tipi" ColumnName="k_tipi" />
+          <ScalarProperty Name="k_firma" ColumnName="k_firma" />
+          <ScalarProperty Name="k_ilan" ColumnName="k_ilan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mesaj">
+      <EntityTypeMapping TypeName="SanOtoModel.Mesaj">
+        <MappingFragment StoreEntitySet="Mesaj">
+          <ScalarProperty Name="m_id" ColumnName="m_id" />
+          <ScalarProperty Name="m_gonderenAd" ColumnName="m_gonderenAd" />
+          <ScalarProperty Name="m_aliciAd" ColumnName="m_aliciAd" />
+          <ScalarProperty Name="m_mesaj" ColumnName="m_mesaj" />
+          <ScalarProperty Name="m_ilanMesaj" ColumnName="m_ilanMesaj" />
+          <ScalarProperty Name="m_firmaMesaj" ColumnName="m_firmaMesaj" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rating">
+      <EntityTypeMapping TypeName="SanOtoModel.Rating">
+        <MappingFragment StoreEntitySet="Rating">
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="f_id" ColumnName="f_id" />
+          <ScalarProperty Name="ScoreID" ColumnName="ScoreID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

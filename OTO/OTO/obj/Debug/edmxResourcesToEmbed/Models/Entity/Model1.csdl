@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SanOtoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Firma">
+    <Key>
+      <PropertyRef Name="f_id" />
+    </Key>
+    <Property Name="f_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="f_ad" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="f_yetkiliAdSoyad" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="f_sehir" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="f_ilce" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="f_mahalle" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="f_kategori" Type="Int32" />
+    <Property Name="f_adresDetay" Type="String" MaxLength="350" FixedLength="false" Unicode="false" />
+    <Property Name="f_yetkiliTel" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="f_sirketTel" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="f_calismaSaat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="f_calismagun" Type="Int32" />
+    <Property Name="f_foto" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Name="f_epota" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="f_fiyat" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="f_gelenMesaj" Type="Int32" />
+    <Property Name="f_kullanici" Type="Int32" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Firma_Kullanici" FromRole="Firma" ToRole="Kullanici" />
+    <NavigationProperty Name="Kullanici1" Relationship="Self.FK_Kullanici_Firma" FromRole="Firma" ToRole="Kullanici" />
+    <Property Name="f_detay" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="f_ustaFoto" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Rating" Relationship="SanOtoModel.FK_Rating_Firma" FromRole="Firma" ToRole="Rating" />
+    <NavigationProperty Name="Gunler" Relationship="SanOtoModel.FK_Firma_Gunler" FromRole="Firma" ToRole="Gunler" />
+    <NavigationProperty Name="Kategori" Relationship="SanOtoModel.FK_Firma_Kategori" FromRole="Firma" ToRole="Kategori" />
+  </EntityType>
+  <EntityType Name="Gunler">
+    <Key>
+      <PropertyRef Name="gun_id" />
+    </Key>
+    <Property Name="gun_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="gunler1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Firma" Relationship="SanOtoModel.FK_Firma_Gunler" FromRole="Gunler" ToRole="Firma" />
+  </EntityType>
+  <EntityType Name="Ilan">
+    <Key>
+      <PropertyRef Name="ilan_id" />
+    </Key>
+    <Property Name="ilan_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ilan_baslik" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_kategori" Type="Int32" />
+    <Property Name="ilan_sehir" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_ilce" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_mahalle" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_detay" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_tarih" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ilan_fiyat" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ilan_verenAd" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_verenSoyad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_verenTel" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_verenEposta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_adres" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_foto" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Name="ilan_gelenMesaj" Type="Int32" />
+    <Property Name="ilan_kullanici" Type="Int32" />
+    <NavigationProperty Name="Kategori" Relationship="Self.FK_Ilan_Kategori" FromRole="Ilan" ToRole="Kategori" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Ilan_Kullanici" FromRole="Ilan" ToRole="Kullanici" />
+    <NavigationProperty Name="Kullanici1" Relationship="SanOtoModel.FK_Kullanici_Ilanlarr" FromRole="Ilan" ToRole="Kullanici" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="kategori_ID" />
+    </Key>
+    <Property Name="kategori_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kategori_ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ilan" Relationship="Self.FK_Ilan_Kategori" FromRole="Kategori" ToRole="Ilan" />
+    <NavigationProperty Name="Firma" Relationship="SanOtoModel.FK_Firma_Kategori" FromRole="Kategori" ToRole="Firma" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="k_id" />
+    </Key>
+    <Property Name="k_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="k_ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="k_soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="k_eposta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="k_sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="k_gonderilenMesaj" Type="Int32" />
+    <Property Name="k_alinanMesaj" Type="Int32" />
+    <Property Name="k_tipi" Type="Boolean" />
+    <Property Name="k_firma" Type="Int32" />
+    <Property Name="k_ilan" Type="Int32" />
+    <NavigationProperty Name="Firma" Relationship="Self.FK_Firma_Kullanici" FromRole="Kullanici" ToRole="Firma" />
+    <NavigationProperty Name="Firma1" Relationship="Self.FK_Kullanici_Firma" FromRole="Kullanici" ToRole="Firma" />
+    <NavigationProperty Name="Ilan" Relationship="Self.FK_Ilan_Kullanici" FromRole="Kullanici" ToRole="Ilan" />
+    <NavigationProperty Name="Ilan1" Relationship="SanOtoModel.FK_Kullanici_Ilanlarr" FromRole="Kullanici" ToRole="Ilan" />
+  </EntityType>
+  <EntityType Name="Mesaj">
+    <Key>
+      <PropertyRef Name="m_id" />
+    </Key>
+    <Property Name="m_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="m_gonderenAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="m_aliciAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="m_mesaj" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="m_ilanMesaj" Type="Int32" />
+    <Property Name="m_firmaMesaj" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_Firma_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+    <End Role="Firma" Type="Self.Firma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="k_id" />
+      </Principal>
+      <Dependent Role="Firma">
+        <PropertyRef Name="f_kullanici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kullanici_Firma">
+    <End Role="Firma" Type="Self.Firma" Multiplicity="0..1" />
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Firma">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="Kullanici">
+        <PropertyRef Name="k_firma" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ilan_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="Ilan" Type="Self.Ilan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="kategori_ID" />
+      </Principal>
+      <Dependent Role="Ilan">
+        <PropertyRef Name="ilan_kategori" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ilan_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+    <End Role="Ilan" Type="Self.Ilan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="k_id" />
+      </Principal>
+      <Dependent Role="Ilan">
+        <PropertyRef Name="ilan_kullanici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SanOtoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Firma" EntityType="Self.Firma" />
+    <EntitySet Name="Gunler" EntityType="Self.Gunler" />
+    <EntitySet Name="Ilan" EntityType="Self.Ilan" />
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <EntitySet Name="Mesaj" EntityType="Self.Mesaj" />
+    <AssociationSet Name="FK_Firma_Kullanici" Association="Self.FK_Firma_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Firma" EntitySet="Firma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kullanici_Firma" Association="Self.FK_Kullanici_Firma">
+      <End Role="Firma" EntitySet="Firma" />
+      <End Role="Kullanici" EntitySet="Kullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ilan_Kategori" Association="Self.FK_Ilan_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Ilan" EntitySet="Ilan" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ilan_Kullanici" Association="Self.FK_Ilan_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Ilan" EntitySet="Ilan" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kullanici_Ilanlarr" Association="SanOtoModel.FK_Kullanici_Ilanlarr">
+      <End Role="Ilan" EntitySet="Ilan" />
+      <End Role="Kullanici" EntitySet="Kullanici" />
+    </AssociationSet>
+    <EntitySet Name="Rating" EntityType="SanOtoModel.Rating" />
+    <AssociationSet Name="FK_Rating_Firma" Association="SanOtoModel.FK_Rating_Firma">
+      <End Role="Firma" EntitySet="Firma" />
+      <End Role="Rating" EntitySet="Rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firma_Gunler" Association="SanOtoModel.FK_Firma_Gunler">
+      <End Role="Gunler" EntitySet="Gunler" />
+      <End Role="Firma" EntitySet="Firma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firma_Kategori" Association="SanOtoModel.FK_Firma_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Firma" EntitySet="Firma" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Kullanici_Ilanlarr">
+    <End Type="SanOtoModel.Ilan" Role="Ilan" Multiplicity="0..1" />
+    <End Type="SanOtoModel.Kullanici" Role="Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ilan">
+        <PropertyRef Name="ilan_id" />
+      </Principal>
+      <Dependent Role="Kullanici">
+        <PropertyRef Name="k_ilan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Rating">
+    <Key>
+      <PropertyRef Name="ScoreID" />
+    </Key>
+    <Property Name="ScoreID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="f_id" Type="Int32" />
+    <Property Name="Score" Type="Int32" />
+    <Property Name="CreateDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Firma" Relationship="SanOtoModel.FK_Rating_Firma" FromRole="Rating" ToRole="Firma" />
+  </EntityType>
+  <Association Name="FK_Rating_Firma">
+    <End Type="SanOtoModel.Firma" Role="Firma" Multiplicity="0..1" />
+    <End Type="SanOtoModel.Rating" Role="Rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Firma">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="Rating">
+        <PropertyRef Name="f_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firma_Gunler">
+    <End Type="SanOtoModel.Gunler" Role="Gunler" Multiplicity="0..1" />
+    <End Type="SanOtoModel.Firma" Role="Firma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gunler">
+        <PropertyRef Name="gun_id" />
+      </Principal>
+      <Dependent Role="Firma">
+        <PropertyRef Name="f_calismagun" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firma_Kategori">
+    <End Type="SanOtoModel.Kategori" Role="Kategori" Multiplicity="0..1" />
+    <End Type="SanOtoModel.Firma" Role="Firma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="kategori_ID" />
+      </Principal>
+      <Dependent Role="Firma">
+        <PropertyRef Name="f_kategori" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

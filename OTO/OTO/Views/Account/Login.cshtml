@@ -1,0 +1,125 @@
+﻿@model OTO.Models.Entity.Kullanici
+@{
+    ViewBag.Title = "Giriş Yap";
+}
+
+
+<!-- Breadcrumb -->
+<div class="breadcrumbs overlay" style="background-image:url('/eduland-master/images/fun-fact-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+                <h2>Kullanıcı Girişi</h2>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <ul class="bread-list">
+                    <li><a href="@Url.Action("Index","Home")">AnaSayfa<i class="fa fa-angle-right"></i></a></li>
+                    <li class="active"><a href="@Url.Action("Ilanlar","Home")">İlanlar<i class="fa fa-angle-right"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ End Breadcrumb -->
+
+
+
+<div class="container ">
+    <div class="card card-login mx-auto mt-5 col-sm-5">
+        <div class="card-header"><h3>Giriş Yap</h3></div>
+        <div class="card-body">
+
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="alert-danger">@ViewBag.Mesaj</div><br />
+                <div class="form-group">
+                    <div class="form-label-group">
+                        @Html.EditorFor(model => model.k_eposta, new { htmlAttributes = new { @class = "form-control ", style = "height:50px", placeholder = "Email", required = "required", autofocus = "autofocus" } })
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="form-label-group">
+                        @Html.EditorFor(model => model.k_sifre, new { htmlAttributes = new { @class = "form-control", style = "height:50px", placeholder = "Parola", required = "required", type = "password" } })
+                        <br />
+                    </div>
+                </div>
+
+                <input type="submit" value="Giriş" style="font-size:medium" class="btn btn-primary btn-block">
+            }
+
+
+
+            
+            <div class="text-center">
+
+                <a class="d-block small mt-3" style="font-size:small" href="@Url.Action("Register", "Account")">Bir Hesap Oluştur</a>
+                <a class="d-block small" style="font-size:small" href="@Url.Action("ParolamiUnuttum", "Account")">Parolamı Unuttum</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*
+
+
+    <div class="card card-login mx-auto mt-5 col-sm-5">
+        <div class="card-header">  <h3>Kayıt ol</h3></div>
+        <div class="card-body">
+
+            <div class="container">
+
+                <form class="form-signin" action="index.html">
+
+                    <div class="login-wrap">
+                        <p>Kişisel bilgilerinizi aşağıya girin.</p>
+                        <input type="text" class="form-control" placeholder="Full Name" autofocus>
+                        <input type="text" class="form-control" placeholder="Address" autofocus>
+                        <input type="text" class="form-control" placeholder="Email" autofocus>
+                        <input type="text" class="form-control" placeholder="City/Town" autofocus>
+                        <div class="radios">
+                            <label class="label_radio col-lg-6 col-sm-6" for="radio-01">
+                                <input name="sample-radio" id="radio-01" value="1" type="radio" checked /> Male
+                            </label>
+                            <label class="label_radio col-lg-6 col-sm-6" for="radio-02">
+                                <input name="sample-radio" id="radio-02" value="1" type="radio" /> Female
+                            </label>
+                        </div>
+
+                        <p> Enter your account details below</p>
+                        <input type="text" class="form-control" placeholder="User Name" autofocus>
+                        <input type="password" class="form-control" placeholder="Password">
+                        <input type="password" class="form-control" placeholder="Re-type Password">
+                        <label class="checkbox">
+                            <input type="checkbox" value="agree this condition"> I agree to the Terms of Service and Privacy Policy
+                        </label>
+                        <button class="btn btn-lg btn-login btn-block" type="submit">Submit</button>
+
+                        <div class="registration">
+                            Already Registered.
+                            <a class="" href="login.html">
+                                Login
+                            </a>
+                        </div>
+
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+*@
+
+
+
+
+    &nbsp;
+    &nbsp;&nbsp;

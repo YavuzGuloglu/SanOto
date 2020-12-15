@@ -1,0 +1,1238 @@
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\OTO.dll.config
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\OTO.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\OTO.pdb
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csc.exe
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csc.exe.config
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csc.rsp
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csi.exe
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csi.exe.config
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\csi.rsp
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.AppContext.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Console.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\vbc.exe
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\vbc.exe.config
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\vbc.rsp
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Antlr3.Runtime.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Newtonsoft.Json.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Helpers.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Mvc.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Optimization.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Razor.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\WebGrease.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Helpers.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Mvc.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Optimization.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.Razor.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Newtonsoft.Json.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Antlr3.Runtime.pdb
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+C:\Users\TULPAR\source\repos\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\source\repos\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+C:\Users\TULPAR\source\repos\OTO\OTO\obj\Debug\OTO.dll
+C:\Users\TULPAR\source\repos\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\OTO\OTO\bin\OTO.dll
+D:\PROJE\OTO\OTO\bin\OTO.pdb
+D:\PROJE\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\OTO.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\OTO.pdb
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Owin.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\Yeni klasör\OTO\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\OTO.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\OTO.pdb
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Owin.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\Yeni klasör\OTOv2\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\OTO.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\OTO.pdb
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Owin.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\Yeni klasör\OTOv3\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\OTO.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\OTO.pdb
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Owin.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\proje\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\proje\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\proje\OTOv3\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\proje\OTOv3\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\OTO.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\OTO.pdb
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Owin.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.pdb
+D:\PROJE\proje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\OTO.dll.config
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\OTO.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\OTO.pdb
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.exe
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.exe.config
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csc.rsp
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.exe
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.exe.config
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\csi.rsp
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.AppContext.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Console.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Compression.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.IO.Pipes.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Claims.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.ValueTuple.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.exe
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.exe.config
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\vbc.rsp
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Antlr3.Runtime.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Win32.Registry.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Newtonsoft.Json.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Owin.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Buffers.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.ComponentModel.Annotations.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Memory.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.AccessControl.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Cryptography.Xml.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Permissions.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Security.Principal.Windows.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Helpers.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Mvc.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Optimization.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Razor.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\WebGrease.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\EntityFramework.SqlServer.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.Identity.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Identity.Core.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.ObjectPool.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Options.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.Primitives.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Extensions.WebEncoders.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Net.Http.Headers.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Buffers.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Memory.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Numerics.Vectors.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Text.Encodings.Web.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Helpers.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Mvc.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Optimization.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.Razor.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Deployment.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\System.Web.WebPages.Razor.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Newtonsoft.Json.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Antlr3.Runtime.pdb
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Helpers.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Mvc.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Optimization.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.Razor.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csprojAssemblyReference.cache
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CoreCompileInputs.cache
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.csproj.CopyComplete
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.dll
+D:\PROJE\GitHubProje\OTOv3\OTOv3\OTO\OTO\obj\Debug\OTO.pdb

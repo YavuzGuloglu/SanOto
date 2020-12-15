@@ -1,0 +1,74 @@
+﻿
+@using OTO.Models.Entity
+@model List<OTO.Models.Entity.Firma>
+
+@{
+    ViewBag.Title = "Ustalar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Events -->
+<section class="events archive section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3 col-12">
+                <div class="section-title bg">
+                    <h2>Kayıtlı <span>Ustalar</span></h2>
+                    <p>Sistemimize kayıtlı ustalarımız sizin için hizmete hazır ve sizlerle iletişime geçmek için sabırsızlanıyorlar.</p>
+                    <div class="icon"><i class="fa fa-paper-plane"></i></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Courses -->
+        <section class="courses archive section">
+
+            <div class="row" >
+                @foreach (var usta in Model)
+                {
+                    <div class="col-lg-4 col-md-6 col-12" >
+                        <!-- Single Course -->
+                        <div class="single-course" style="height:600px">
+                            <!-- Course Head -->
+                            <div class="course-head overlay">
+                                <img src="~/Content/img/usta/@usta.f_foto" alt="#"  style="width:320px;height:188px">
+                                <a href="/Home/UstaDetay/@usta.f_id" class="btn white primary">İncele</a>
+                            </div>
+                            <!-- Course Body -->
+                            <div class="course-body">
+                                <div class="name-price">
+                                    <div class="teacher-info">
+                                        <img src="~/Content/img/usta/profil/@usta.f_ustaFoto" alt="#">
+                                        <h4 class="title">@usta.f_yetkiliAdSoyad</h4>
+                                    </div>
+                                    <span class="price">@usta.Kategori.kategori_ad</span>
+                                </div>
+              
+                                <h4 class="c-title"><a href="/Home/UstaDetay/@usta.f_id">@usta.f_ad</a></h4>
+                                <p>@usta.f_detay</p>
+                            </div>
+                            <!-- Course Meta -->
+                            <div class="course-meta">
+                                <!-- Rattings --> 
+
+                    
+
+                                <!-- Course Info -->
+                                <div class="course-info">
+                                    <i class="fa fa-users"></i> @usta.Gunler.gunler1 &nbsp;
+                                    <i class="fa fa-clock-o"></i> @usta.f_calismaSaat  &nbsp;
+                                    <i class="fa fa-building-o"></i> @usta.f_sehir | @usta.f_ilce
+                                </div>
+                            </div>
+                            <!--/ End Course Meta -->
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+                }
+            </div>
+
+        </section>
+        <!--/ End Courses -->
+    </div>
+</section>
+<!--/ End Events -->

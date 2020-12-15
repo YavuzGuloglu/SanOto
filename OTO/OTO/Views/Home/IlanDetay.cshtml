@@ -1,0 +1,137 @@
+﻿@model OTO.Models.Entity.Ilan
+
+@{
+    ViewBag.Title = "IlanDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+  
+
+
+@*    @Html.ActionLink("Edit", "Edit", new { id = Model.ilan_id })                 #036C3B  #05C46B     *@
+<!-- PageBanner -->
+<div class="container-fluid no-padding pagebanner alert alert-info" style="background: #05C46B">
+    <div class="container">
+
+        <br />
+        <h2 style="color:whitesmoke">
+            <i class="fa fa-caret-right"></i> &nbsp;  Kategori  |&nbsp;
+            <small>
+                @Html.DisplayFor(model => model.Kategori.kategori_ad)
+
+            </small>
+        </h2>
+        <hr />
+
+        <div class="row justify-content-end">
+            <a href="@Url.Action("Ilanlar", "Home")" style="font-size:medium;" class="btn white  "><i class="fa fa-arrow-left"></i>&nbsp;  İlanlar Sayfasına Dön </a>
+        </div>
+
+    </div>
+
+</div><!-- PageBanner /- -->
+
+<br />
+<!-- Page Content -->
+<div class="container">
+
+    <div class="row"  style="font-size:medium">
+
+        <div class="col-md-6">
+
+
+            <img src="~/Content/img/ilan/@Model.ilan_foto" style="width:600px; height: 500px;" alt="#">
+
+        </div>
+
+        <div class="col-md-6">
+            <h3 class="my-3 ">İlan Detay  </h3>
+            <hr />
+            <h5 class="my-4">Konu: @Html.DisplayFor(model => model.ilan_baslik)</h5>
+
+            <p> @Html.DisplayFor(model => model.ilan_detay)</p>
+            <br />
+            <b>İstenen Max. Fiyat: </b>
+            @Html.DisplayFor(model => model.ilan_fiyat) TL
+            <hr />
+
+            <h3 class="my-3">İlan Sahibi</h3>
+            <hr />
+             
+            <div class="row" style="font-size:medium">
+                <div class="col-md-6 col-sm-6 " >
+                    <b>Ad Soyad:</b>
+                    @Html.DisplayFor(model => model.ilan_verenAd)
+                    @Html.DisplayFor(model => model.ilan_verenSoyad)
+                </div>
+
+                <div class="col-md-6 col-sm-6">
+                    <b>İlan Tarihi:</b>
+                    @Html.DisplayFor(model => model.ilan_tarih)
+                </div>
+
+                <div class="col-md-6 col-sm-6">
+                    <b>Telefon: </b>
+                    @Html.DisplayFor(model => model.ilan_verenTel)
+                </div>
+                <div class="col-md-6 col-sm-7">
+                    <b>Eposta: </b>
+                    @Html.DisplayFor(model => model.ilan_verenEposta)
+                </div>
+                <div class="col-md-6 col-sm-7">
+                    <b> Adres:</b>
+                    @Html.DisplayFor(model => model.ilan_adres)
+                </div>
+                <div class="col-md-6 col-sm-7">
+                    <b class="buyuk"> @Html.DisplayFor(model => model.ilan_sehir)  |</b> @Html.DisplayFor(model => model.ilan_ilce)
+
+                </div>
+
+            </div>
+            <hr />
+            <br />
+        </div>
+
+    </div>
+</div>
+<br />
+
+@*
+
+
+
+        <!-- /.row -->
+        <!-- Related Projects Row -->
+        <h3 class="my-4">Related Projects</h3>
+
+        <div class="row">
+
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                    <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                    <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                    <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                    <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+                </a>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->*@

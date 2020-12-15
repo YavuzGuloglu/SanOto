@@ -1,0 +1,122 @@
+﻿@model List<OTO.Models.Entity.Firma>
+
+@{
+    ViewBag.Title = "UstaList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!-- Events -->
+<section class="events archive section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3 col-12">
+                <div class="section-title bg">
+                    <h2>Kayıtlı <span>Ustalar</span></h2>
+                    <p>Sistemimize kayıt ettiğiniz ustalar listelenmekte ve sizin için isteklerinize göre işlemler yapılmaktadır.</p>
+                    <div class="icon"><i class="fa fa-paper-plane"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid">
+
+        <div id="content-wrapper">
+            <div class="container-fluid">
+                <div>
+
+                    <a href="@Url.Action("UstaEkle", "HomeLogin")" style="font-size:large" class="btn bg-success"><i class="fa fa-plus"></i>&nbsp; &nbsp;  Yeni Usta Ekle </a>
+
+                </div>
+                <br />
+
+                <!-- DataTables Example -->
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <i class="fa fa-list"></i>
+                        &ensp;Kayıtlı Usta Verileri
+
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover" id="dataTable">
+                                <thead style="background:#0e0c28 ; font-size:large">
+                                    <tr>
+
+                                        <th style="color:whitesmoke">Firma Ad</th>
+                                        <th style="color:whitesmoke">Usta Kategori</th>
+                                        <th width="800" style="color:whitesmoke">Usta Detay</th>
+                                        <th style="color:whitesmoke">Usta Adres </th>
+                                        <th style="color:whitesmoke">Usta Fiyat </th>
+                                        <th style="color:whitesmoke">Usta Hafta </th>
+                                        <th style="color:whitesmoke">Usta ID </th>
+
+                                        <th style="color:wheat">Delete</th>
+                                        <th style="color:wheat">Update</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody style="font-size:16px">
+
+                                    @foreach (var usta in Model.ToList())
+                                    {
+
+                                        @*
+                                            var kullaniciID = HttpContext.Current.Session.SessionID;
+                                                                                   if (usta.f_kullanici != null)
+                                                                                   {
+                                                                                       if (usta.Kullanici.k_id == kullaniciID)
+                                                                                       {
+                                        *@
+                                        if (ViewBag.ID == usta.f_kullanici)
+                                        {
+
+                                            try
+                                            {
+                                                <tr>
+                                                    <td>@usta.f_ad</td>
+                                                    <td>@usta.Kategori.kategori_ad</td>
+                                                    <td>@usta.f_detay</td>
+                                                    <td>@usta.f_adresDetay</td>
+                                                    <td>@usta.f_fiyat TL</td>
+                                                    <td>@usta.Gunler.gunler1</td>
+                                                    <td>@usta.f_kullanici</td>
+                                                    <td>
+                                                        <a href="/HomeLogin/UstaSil/@usta.f_id" class="btn bg-danger">Sil</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="/HomeLogin/UstaGuncelle/@usta.f_id" class="btn bg-primary">Güncelle</a>
+                                                    </td>
+                                                </tr>
+
+                                            }
+                                            catch (Exception)
+                                            {
+
+                                                Response.Write("Boş Bırakılamaz");
+                                            }
+
+                                        }
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="card-footer small text-muted"> @DateTime.Now</div>
+                </div>
+                <p class="small text-center text-muted my-5">
+                    <em>Araç Onarım ve Bakım &nbsp; &nbsp;|&nbsp;&nbsp; SanOto A.Ş. </em>
+                </p>
+            </div>
+
+        </div>
+
+
+    </div>
+
+</section>
+<!--/ End Events --> 

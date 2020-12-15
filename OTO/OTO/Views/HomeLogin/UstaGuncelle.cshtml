@@ -1,0 +1,212 @@
+﻿@model OTO.Models.Entity.Firma
+
+@{
+    ViewBag.Title = "UstaGuncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- PageBanner -->
+<div class="container-fluid no-padding pagebanner alert alert-info" style="background:#05C46B">
+    <div class="container">
+        <br />
+        <h2 style="color:whitesmoke">Usta Güncelleme</h2>
+        <hr />
+    </div>
+</div>
+<!-- PageBanner /- -->
+
+
+
+
+<div class="col-md-10  offset-md-1 ">
+    <br />
+    <div class="col-md-6 offset-md-3">
+        <div class="container">
+            @using (Html.BeginForm("UstaGuncel", "HomeLogin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.f_id)
+                    <div class="form-group">
+                        <label style="color:green; font-size:large">Güncellenen Usta ID'si  &nbsp;:</label> &nbsp;&nbsp;
+                        @Html.TextBoxFor(model => model.f_id, new { @class = "form-control-sm", @disabled = "true" })
+                        <hr />
+                    </div>
+
+                    <div class="form-group">
+
+                        <label><u><h5>Firma Ad</h5></u></label>
+
+                        @Html.EditorFor(model => model.f_ad, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.f_ad, "", new { @class = "text-danger" })
+
+                    </div>
+                    <br />
+
+                    <div class="form-group">
+                        <label><u><h5>Usta Ad Soyad</h5></u></label>
+                        @Html.EditorFor(model => model.f_yetkiliAdSoyad, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.f_yetkiliAdSoyad, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+
+
+                    <div class="row">
+
+                        <div class="col-md-4 col-sm-12">
+
+                            <label><u><h5>Usta Kategori</h5></u></label>    <br />
+                            @try
+                            {
+                                @Html.DropDownList("f_kategori", (List<SelectListItem>)ViewBag.ustakategori, null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.f_kategori, "", new { @class = "text-danger" })
+                            }
+                            catch (Exception)
+                            {
+
+                                Response.Write("Boş Bırakılamaz");
+                            }
+
+
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <label><u><h5>Usta Kategori</h5></u></label>    <br />
+
+                            @try
+                            {
+                                @Html.DropDownList("f_calismagun", (List<SelectListItem>)ViewBag.ustagun, null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.f_calismagun, "", new { @class = "text-danger" })
+                            }
+                            catch (Exception)
+                            {
+
+                                Response.Write("Boş Bırakılamaz");
+                            }
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6">
+
+                            <label><u><h5>Usta Şehir</h5></u></label>
+                            @Html.EditorFor(model => model.f_sehir, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.f_sehir, "", new { @class = "text-danger" })
+
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+
+                            <label><u><h5>Usta İlçe</h5></u></label>
+                            @Html.EditorFor(model => model.f_ilce, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.f_ilce, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <br />
+                <div class="form-group">
+                    <label> <u><h5>Usta Adres</h5></u> </label>
+                    @Html.EditorFor(model => model.f_adresDetay, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.f_adresDetay, "", new { @class = "text-danger" })
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <label><u><h5>Usta Tel</h5></u></label>
+
+                        @Html.EditorFor(model => model.f_yetkiliTel, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.f_yetkiliTel, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+
+                        <label><u><h5>İsyeri Telefon</h5></u></label>
+                        @Html.EditorFor(model => model.f_sirketTel, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.f_sirketTel, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <label><u><h5>Çalisma Vakit</h5></u></label>
+                        @Html.EditorFor(model => model.f_calismaSaat, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.f_calismaSaat, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <br />
+
+
+                <div class="form-group">
+                    <label><u><h5>Usta Eposta</h5></u></label>
+                    @Html.EditorFor(model => model.f_epota, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.f_epota, "", new { @class = "text-danger" })
+                </div>
+                <br />
+
+                <div class="form-group">
+                    <label><u><h5>Usta Min Fiyat</h5></u></label>
+                    @Html.EditorFor(model => model.f_fiyat, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.f_fiyat, "", new { @class = "text-danger" })
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-md-5 col-sm-12">
+                        <label><h5><u>Usta Fotoğraf</u></h5></label>
+                        <br />
+                        <input type="file" name="guncellenecekResim1" id="guncellenecekResim1" enctype="multipart/form-data" />
+                        @Html.ValidationMessageFor(model => model.f_ustaFoto, "", new { @class = "text-danger" })
+
+                    </div>
+                    <div class="col-md-7 col-sm-12">
+                        <br />
+                        @if (Model.f_ustaFoto != null)
+                        {
+                            <input class="text-body form-control bg-success" style="color:white" disabled="true" value=" Ustaa Ait Resim Bulunmaktadır." />
+                        }
+                        else
+                        {<input class="text-body form-control bg-danger" style="color:white" disabled="true" value=" Ustaa Ait Resim Bulunmamaktadır !" />}
+                        <br />
+                    </div>
+
+                    <div class="col-md-5 col-sm-12">
+                        <label><h5><u>İşyeri Fotoğraf</u></h5></label>
+                        <br />
+
+                        <input type="file" name="guncellenecekResim2" id="guncellenecekResim2" enctype="multipart/form-data" />
+                        @Html.ValidationMessageFor(model => model.f_foto, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-7 col-sm-12">
+                        <br />
+                        @if (Model.f_foto != null)
+                        {
+                            <input class="text-body form-control bg-success" style="color:white" disabled="true" value=" Ustaa Ait Resim Bulunmaktadır." />
+                        }
+                        else
+                        {<input class="text-body form-control bg-danger" style="color:white" disabled="true" value=" Ustaa Ait Resim Bulunmamaktadır !" />}
+
+                    </div>
+                </div>
+                <br />
+
+                <div class="form-group">
+                    <label><u><h5>Ürün Detay</h5></u></label><br />
+                    @Html.TextAreaFor(Model => Model.f_detay, new { @class = "form-control", rows = "9 " })
+                    @Html.ValidationMessageFor(model => model.f_detay, "", new { @class = "text-danger" })
+
+                </div>
+                <br />
+
+                <div class="container col-sm-4">
+                    <input type="submit" class="form-control btn bg-success" style="font-size:medium" value="G ü n c e l l e" name="UstaButonEkle" />
+
+
+                </div>
+
+            }
+            <br />
+
+        </div>
+    </div>
+</div>

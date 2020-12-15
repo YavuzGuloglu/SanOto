@@ -1,0 +1,357 @@
+﻿
+@{
+    ViewBag.Title = "AnaSayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml ";
+}
+
+
+<!-- Slider Area -->
+<section class="home-slider">
+    <div class="slider-active">
+        <!-- Single Slider -->
+        <div class="single-slider overlay">
+            <div class="slider-image" style="background-image:url('../../Content/img/logo/bg1.jpg')"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7 col-md-10 col-12">
+                        <!-- Slider Content -->
+                        <div class="slider-content">
+                            <h1 class="slider-title"><span>Sanayi ve Otomotiv !</span>Araç Onarım ve Bakım <b> TOGG</b></h1>
+                            <p class="slider-text">Günümüzde insanların sanayi ortamlarındaki zaman kaybını önlemek, araçlarının sorunlarını güvenli bir şekilde çözebilmesini sağlamak amacıyla oluşturulan bu platform ayrıca sanayide çalışan işletmeler için bir ek gelir oluşturmaktadır</p>
+                            <!-- Button -->
+                            @if (Session["KullaniciAdi"] != null)
+                            {
+                                <div class="button">
+
+                                    <a href="@Url.Action("iletisim", "Home")" class="btn white primary"><i class="fa fa-phone-square"></i> &nbsp; Bize Ulaşın</a>
+                                    <a href="#hakkinda" class="btn white "><i class="fa fa-question"></i> &nbsp;Biz Kimiz</a>
+                                </div>
+                                <!--/ End Button -->
+
+                            }
+                            else
+                            {
+                                <div class="button">
+
+                                    <a href="@Url.Action("Register", "Account")" class="btn white primary"><i class="fa fa-user-plus"></i> &nbsp; Kayıt Ol</a>
+                                    <a href="#hakkinda" class="btn white "><i class="fa fa-question"></i>&nbsp; Biz Kimiz</a>
+                                </div>
+                                <!--/ End Button -->
+                            }
+                            <!--/ End Slider Content -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/ End Single Slider -->
+    </div>
+</section>      <a name="hakkinda"></a>
+<!--/ End Slider Area -->
+<!-- Courses -->
+<section class="courses section">
+    <div class="container">
+        <div class="row">
+
+            <div class="section-title bg ">
+
+                <h2>Biz  <span>  Kimiz?</span></h2>
+                <p style="font-size:medium">
+                    İnsanlar araçlarının arızalarını çözmek için servislere oranla sanayiye gitmektedir bunun sebebi ise servis fiyatlarının sanayiye göre çok daha pahalı olmasıdır.
+                    Ayrıca sanayideki işletmelerin bütçeleri, güvenilirlikleri ve bilinirlikleri müşterilerin seçimlerinde önemli bir rol oynamaktadır.
+                    İşte biz bu sebep ile sanayileri web üzerinden kullanıcılar ile buluşturmaya karar vermiş kararlı ve heyecanlı bir ekibiz.
+                </p>
+                <br />
+                <div class="icon"><i class="fa fa-car"></i></div>
+                <br />
+                <br />
+                <h2>Kimlere Hizmet <span>   Vermekteyiz?</span></h2>
+                <p style="font-size:medium">
+                    Uluslararası markaların Türkiye’de başarılı performans gerçekleştirebilmesine olanak sağlamaya ve markaların kattığı
+                    değer ve rekabet avantajıyla “beklentilerin üzerinde yaratıcı hizmet” vizyonu ve “müşteri memnuniyeti odaklı çalışma”
+                    prensibiyle istikrarlı bir şekilde büyümeye devam etmeyi amaçlamaktadır.
+                </p>
+                <br />
+                <div class="icon"><i class="fa fa-car"></i></div>
+                <br />
+
+
+                <br />
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <h2>
+                            Viz<span>yon</span>
+                        </h2>
+                        <p style="font-size:medium">
+                            Beklentilerin üzerinde yaratıcı hizmet sunmaktır. <br /><br />
+                            <b>BÜYÜK OL - YAKIN OL - YARATICI OL</b>
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <h2>
+                            Mis<span>yon</span>
+                        </h2>
+                        <p style="font-size:medium">
+                            Otomotiv sektöründe müşteri odaklılık prensibi üzerinde çalışan, sektörünü iyi tanıyan,
+                            paydaşlarının beklentilerini bilen ve yeni beklentiler tanımlayıp, bunların en üst düzeyde tatminini hedefleyen,
+                            yaratıcı insan gücüne sahip ve bu doğrultuda teknolojiyi iyi kullanan, güvenilir,
+                            otomotiv değer zinciri alanlarında verimli ve kârlı hizmet sunmayı hedefleyen bir destek şirketidir.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/ End Courses -->
+<!-- Features -->
+<div class="features overlay section" data-stellar-background-ratio="0.5">
+    <div class="container ">
+        <div class="row">
+
+            <div class="col-lg-4 col-md-6 col-12">
+                <!-- Single Feature -->
+                <div class="single-feature">
+                    <div class="icon-img">
+                        <img src="eduland-master/images/feature2.jpg" alt="#">
+                        <i class="" style="font-size:35px">@ViewBag.deger1</i>
+                    </div>
+                    <div class="feature-content">
+                        <h4 class="f-title "><i class="fa fa-user"></i>&nbsp; Kayıtlı Kullanıcı Sayısı</h4>
+                        <p>Sistemde üyeliği bulunan kullanıcıların sayısı.</p>
+                    </div>
+                </div>
+                <!--/ End Single Feature -->
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12">
+                <!-- Single Feature -->
+                <div class="single-feature">
+                    <div class="icon-img">
+                        <img src="eduland-master/images/feature1.jpg" alt="#">
+                        <i class="" style="font-size:35px">@ViewBag.deger3</i>
+                    </div>
+                    <div class="feature-content">
+                        <h4 class="f-title "><i class="fa fa-cab"></i>&nbsp; Kayıtlı Usta Sayısı</h4>
+                        <p>Sistemde kayıtlı Ustaların sayısı.</p>
+                    </div>
+                </div>
+                <!--/ End Single Feature -->
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12">
+                <!-- Single Feature -->
+                <div class="single-feature">
+                    <div class="icon-img">
+                        <img src="eduland-master/images/feature2.jpg" alt="#">
+                        <i class="" style="font-size:35px">@ViewBag.deger2</i>
+                    </div>
+                    <div class="feature-content">
+                        <h4 class="f-title "><i class="fa fa-chain"></i>&nbsp; Kayıtlı İlan Sayısı</h4>
+                        <p>Sistemde kayıtlı İlanların sayısı.</p>
+                    </div>
+                </div>
+                <!--/ End Single Feature -->
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+@*
+    <!--/ End Features -->
+    <!-- Events -->
+    <section class="events section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3 col-12">
+                    <div class="section-title bg">
+                        <h2>Upcoming <span>Events</span></h2>
+                        <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy</p>
+                        <div class="icon"><i class="fa fa-paper-plane"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 col-12">
+                    <div class="event-img">
+                        <img src="eduland-master/images/event-left.png" alt="#">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-12">
+                    <div class="coming-event">
+                        <!-- Single Event -->
+                        <div class="single-event">
+                            <div class="event-date">
+                                <p>23<span>March</span></p>
+                            </div>
+                            <div class="event-content">
+                                <h3 class="event-title"><a href="event-single.html">Admission Fair Spring 2019</a></h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis ultricies tortor, nec sollicitudin lorem sagittis vitae. Curabitur rhoncus commodo</p>
+                                <span class="entry-date-time"><i class="fa fa-clock-o" aria-hidden="true"></i> 05:23 AM - 09:23 AM </span>
+                            </div>
+                        </div>
+                        <!-- End Single Event -->
+                        <!-- Single Event -->
+                        <div class="single-event">
+                            <div class="event-date">
+                                <p>25<span>April</span></p>
+                            </div>
+                            <div class="event-content">
+                                <h3 class="event-title"><a href="event-single.html">Internation Web Developments Awards!</a></h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis ultricies tortor, nec sollicitudin lorem sagittis vitae. Curabitur rhoncus commodo</p>
+                                <span class="entry-date-time"><i class="fa fa-clock-o" aria-hidden="true"></i> 05:23 AM - 09:23 AM </span>
+                            </div>
+                        </div>
+                        <!-- End Single Event -->
+                        <!-- Single Event -->
+                        <div class="single-event">
+                            <div class="event-date">
+                                <p>05<span>Jun</span></p>
+                            </div>
+                            <div class="event-content">
+                                <h3 class="event-title"><a href="event-single.html">Actualized Network Seminar</a></h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis ultricies tortor, nec sollicitudin lorem sagittis vitae. Curabitur rhoncus commodo</p>
+                                <span class="entry-date-time"><i class="fa fa-clock-o" aria-hidden="true"></i> 05:23 AM - 09:23 AM </span>
+                            </div>
+                        </div>
+                        <!-- End Single Event -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/ End Events -->
+    <!-- Call To Action -->
+    <section class="cta">
+        <div class="cta-inner overlay section" style="background-image:url('eduland-master/images/cta-bg.jpg')" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-12">
+                        <div class="text-content">
+                            <h2>We <span>Focus on</span> Brands, Products & Campaigns</h2>
+                            <p>facilisis ultricies tortor, nec sollicitudin lorem sagittis vitae. Curabitur rhoncus commodo rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam nec lacus pulvinar, laoreet dolor quis, pellentesque ante. Cras nulla orci, pharetra at dictum consequat, pretium pretium nulla</p>
+                            <!-- CTA Button -->
+                            <div class="button">
+                                <a class="btn white" href="contact.html">Join With Now</a>
+                                <a class="btn white primary" href="courses.html">View Courses</a>
+                            </div>
+                            <!--/ End CTA Button -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <!-- Cta Image -->
+                        <div class="cta-image">
+                            <img src="eduland-master/images/girl-1.png" alt="#">
+                        </div>
+                        <!--/ End Cta Image -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/ End Call To Action -->
+    <!-- Faqs -->*@
+<section class="faqs section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3 col-12">
+                <div class="section-title bg">
+                    <h2>SIKÇA SORULAN <span>SORULAR</span></h2>
+                    <p>Çoğunlukla aynı soruları tekrar tekrar sormaktayız. Her şeyden önce, alacağımız otomobilin bizi mutlu edecek otomobil olacağından emin olmalıyız.</p>
+                    <div class="icon"><i class="fa fa-question"></i></div>
+                </div>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-lg-5 col-12 ">
+                <div class="faq-image ">
+                    <img src="~/Content/img/logo/car11.png" />
+
+                </div>
+            </div>
+            <div class="col-lg-7 col-12">
+                <div class="faq-main">
+                    <div class="faq-content">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <!-- Single Faq -->
+                            <div class="panel panel-default">
+                                <div class="faq-heading" id="FaqTitle1">
+                                    <h4 class="faq-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#faq1"><i class="fa fa-question"></i>SanOto Nedir ?</a>
+                                    </h4>
+                                </div>
+                                <div id="faq1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="FaqTitle1">
+                                    <div class="faq-body">
+                                        İnsanlar araçlarının arızalarını çözmek için servislere oranla sanayiye gitmektedir bunun sebebi ise servis fiyatlarının sanayiye göre çok daha pahalı olmasıdır. Ayrıca sanayideki işletmelerin bütçeleri, güvenilirlikleri ve bilinirlikleri müşterilerin seçimlerinde önemli bir rol oynamaktadır.
+                                        İşte biz bu sebep ile sanayileri web üzerinden kullanıcılar ile buluşturmaya karar vermiş kararlı ve heyecanlı bir ekibiz.
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ End Single Faq -->
+                            <!-- Single Faq -->
+                            <div class="panel panel-default active">
+                                <div class="faq-heading" id="FaqTitle2">
+                                    <h4 class="faq-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#faq2"><i class="fa fa-question"></i>Nasıl Üye Olunur ?</a>
+                                    </h4>
+                                </div>
+                                <div id="faq2" class="panel-collapse collapse show" role="tabpanel" aria-labelledby="FaqTitle2">
+                                    <div class="faq-body">Sitenin üst tarafındaki “Üye Girişi” bölümünden, kişisel bilgilerinizi girmelisiniz. Ve sorasında istenilen bilgiler ile giriş yapabilirsiniz.</div>
+                                </div>
+                            </div>
+                            <!--/ End Single Faq -->
+                            <!-- Single Faq -->
+                            <div class="panel panel-default">
+                                <div class="faq-heading" id="FaqTitle3">
+                                    <h4 class="faq-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#faq3"><i class="fa fa-question"></i>Neden SanOto' yu Tercih Etmeliyim ?</a>
+                                    </h4>
+                                </div>
+                                <div id="faq3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="FaqTitle3">
+                                    <div class="faq-body">
+                                        SanOto oto servis olduğundan dolayı gerek mekanik gerek kaporta gerekse diğer bölümler için ayrı ayrı uzman usta eşliğinde araç tamir işlemi yapmaktadır.
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ End Single Faq -->
+                            <!-- Single Faq -->
+                            <div class="panel panel-default">
+                                <div class="faq-heading" id="FaqTitle4">
+                                    <h4 class="faq-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#faq4"><i class="fa fa-question"></i>Araba Alırken Nelere Dikkat Etmeliyim ? </a>
+                                    </h4>
+                                </div>
+                                <div id="faq4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="FaqTitle4">
+                                    <div class="faq-body">
+                                        1. Markanın yaygın bir servis ağı var mı? <br />
+                                        2. Markanın yedek parça sorunu var mı?<br />
+                                        3. Markanın ülkemiz pazarında satışları çok mu az mı?<br />
+                                        4. Aracı satmak istediğimde hemen satılırmı?
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ End Single Faq -->
+                            <!-- Single Faq -->
+                            <div class="panel panel-default">
+                                <div class="faq-heading" id="FaqTitle5">
+                                    <h4 class="faq-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#faq5"><i class="fa fa-question"></i>Hangi bölgelerde hizmet veriyorsunuz ?</a>
+                                    </h4>
+                                </div>
+                                <div id="faq5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="FaqTitle5">
+                                    <div class="faq-body">Şu an için maalesef hizmet vermemekteyiz proje geliştirilme aşamasındadır. </div>
+                                </div>
+                            </div>
+                            <!--/ End Single Faq -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/ End Blogs -->
+<!--/ End Clients CSS -->

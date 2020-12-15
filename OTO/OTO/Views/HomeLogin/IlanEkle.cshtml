@@ -1,0 +1,130 @@
+﻿@model OTO.Models.Entity.Ilan
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- PageBanner -->
+<div class="container-fluid no-padding pagebanner alert alert-info" style="background:#05C46B">
+    <div class="container">
+        <br />
+        <h2 style="color:whitesmoke">Yeni İlan Ekle</h2>
+        <hr />
+    </div>
+</div>
+<!-- PageBanner /- -->
+
+<div class="col-md-10  offset-md-1 " >
+    <br />
+    <div class="col-md-6 offset-md-3">
+        <div class="container">
+            @using (Html.BeginForm("IlanEkle", "HomeLogin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+
+                <form method="post" class="container form-group col-md-8">
+                    <div>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6">
+
+                                <label><u><h5>Ad </h5></u></label>
+                                <input type="text" class="form-control" name="ilan_verenAd" />
+
+                            </div>
+                            <div class="col-md-4 col-sm-6">
+
+                                <label><u><h5>Soyad</h5></u></label>
+                                <input type="text" class="form-control" name="ilan_verenSoyad" />
+                            </div>
+                        </div>
+
+                        <br />
+                        <label><u><h5>İlan Başlık</h5></u></label>
+
+                        <input type="text" class="form-control" name="ilan_baslik" />
+                    </div>
+                    <br />
+                    
+                    <div>
+                        <div class="justify-content-start">
+                            <div class="row">
+
+                                <div class="col-md-4 col-sm-12">
+
+                                    <label><u><h5>İlan Kategori</h5></u></label>    <br />
+                                    @try
+                                    {
+                                        @Html.DropDownListFor(m => m.Kategori.kategori_ID, (List<SelectListItem>)ViewBag.ktgr, "Kategori Seçiniz..", new { @class = "form-control" })
+                                    }
+                                    catch (Exception)
+                                    {
+
+                                        Response.Write("Boş Bırakılamaz");
+                                    }
+
+
+                                </div>
+                                <div class="col-md-4 col-sm-6">
+
+                                    <label><u><h5>İlan Şehir</h5></u></label>
+                                    <input type="text" class="form-control" name="ilan_sehir" />
+
+                                </div>
+                                <div class="col-md-4 col-sm-6">
+
+                                    <label><u><h5>İlan İlçe</h5></u></label>
+                                    <input type="text" class="form-control" name="ilan_ilce" />
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div>
+
+                        <label><u><h5>İlan Tarih</h5></u></label>
+                        <input type="text" class="form-control text-sm-center" name="ilan_tarih" />
+
+                    </div>
+                    <br />
+                    <div>
+
+                        <label><u><h5>İlan Veren Telefon</h5></u></label>
+                        <input type="text" class="form-control" name="ilan_verenTel" placeholder="0XXXXXXXXXX" pattern="[0-9]{4}[0-9]{3}[0-9]{2}[0-9]{2}" />   @*Bura HATALI*@
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>İlan Fiyat</h5></u></label>
+                        <input type="tel" class="form-control" name="ilan_fiyat" />
+                    </div>
+                    <br />
+                    <div>
+                        <label><h5><u>İlan Resim</u></h5></label><br />
+
+                        <input type="file" name="yuklenecekResim" accept="image/*" enctype="multipart/form-data" />
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>İlan Veren Eposta</h5></u></label>
+                        <input type="text" class="form-control" name="ilan_verenEposta" />
+                    </div><br />
+                    <div>
+                        <label><u><h5>İlan Adres</h5></u></label>
+                        <input type="text" class="form-control" name="ilan_adres" />
+                    </div>
+                    <br />
+                    <div>
+                        <label><u><h5>İlan Detay</h5></u></label><br />
+                        @Html.TextAreaFor(Model => Model.ilan_detay, new { @class = "form-control", rows = "9 " })
+
+                    </div>
+                    <br />
+                    <div class="container col-sm-4">
+
+                        <input type="submit" class="form-control btn bg-success" style="font-size:large" value="i l a n ı &nbsp;  k a y d e t" name="IlanButonEkle" />
+                    </div>
+                    @ViewBag.Hata
+                </form>}
+        </div>
+    </div>
+</div>
